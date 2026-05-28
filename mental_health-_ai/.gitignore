@@ -212,3 +212,4 @@ __pycache__/
 .expo/
 *.pyc
 saved_models/
+*.db
